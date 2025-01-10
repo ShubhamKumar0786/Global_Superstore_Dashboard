@@ -12,11 +12,11 @@ The Global Superstore dataset is a comprehensive collection of business data enc
 - Identifies profit by product and Customers name .
 - Highlights high-performing and underperforming segments.
 
-### 4. Regional Performance
+### 3. Regional Performance
 - Compares performance across geographical regions.
 - Identifies trends and strengths.
 
-### 5. Product Categories
+### 4. Product Categories
 - Analyzes sales distribution among categories, including:
   - **Technology**
   - **Furniture**
@@ -60,7 +60,7 @@ The Global Superstore dataset is a comprehensive collection of business data enc
 - **In comparison of 2011, the sale and profit near by doubled in 2014.**
 - **A common product(Lexmark MX611dhe Monochrome Laser Printer) that was previously at a loss(2011) is now at a loss(2014).
   Apart from this,  more products are in loss in 2014. which is the same as the 2013 product.**
-- **Sales technology is becoming more in comaprison of office supplies and furniture stores.**
+- **Sales technology is becoming more in comparison of office supplies and furniture stores.**
 - **There are some products which were on top in last year's sale and are still there now.**
 
 
