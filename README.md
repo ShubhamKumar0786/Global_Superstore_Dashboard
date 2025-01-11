@@ -29,34 +29,36 @@ The Global Superstore dataset is a comprehensive collection of business data enc
 
 
 
-![12](https://github.com/user-attachments/assets/eda8759f-3874-4d52-84c3-caedaa6ee54f)
+![31](https://github.com/user-attachments/assets/c2650afa-14e5-4ee0-82be-c5a493d9b5eb)
 
 
 
-
-![13](https://github.com/user-attachments/assets/724bab92-7f9f-43b9-a2f6-627b818384b6)
-
-
-
-
-![14](https://github.com/user-attachments/assets/18189fa8-6cd1-43dd-9e4b-2a0422bc54be)
-
-
-
-![15](https://github.com/user-attachments/assets/ababae1d-9df2-4447-a590-b44888962cbf)
-
-
-
-
-![16](https://github.com/user-attachments/assets/786526e6-3cce-4353-8b1a-16e162a51fe5)
+![32](https://github.com/user-attachments/assets/21b35200-0e2a-4802-9501-f2b627abccf7)
 
 
 
 
 
 
-https://github.com/user-attachments/assets/454639e9-a9f0-4267-8f7e-c6b32717ea21
+![33](https://github.com/user-attachments/assets/df6a4a77-8d3e-4a96-a434-8139d6b531ab)
 
+
+
+
+![34](https://github.com/user-attachments/assets/58ddddb8-de66-46e7-b2de-a11400e7ad97)
+
+
+
+
+![35](https://github.com/user-attachments/assets/81fb6ca1-fe75-4da1-832f-07d5dff2bf71)
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/260f69ce-ef72-4e1a-8c78-17c957665719
 
 
 
@@ -73,7 +75,7 @@ https://github.com/user-attachments/assets/454639e9-a9f0-4267-8f7e-c6b32717ea21
   Apart from this,  more products are in loss in 2014. which is the same as the 2013 product.**
 - **Sales technology is becoming more in comparison of office supplies and furniture stores.**
 - **There are some products which were on top in last year's sale and are still there now.**
-
+- **KPI index is increase year by year.**
 
 ---
 
