@@ -1,3 +1,4 @@
+
 # Dataset Insights: Global Superstore
 
 The Global Superstore dataset is a comprehensive collection of business data encompassing sales, profits, customer demographics, product categories, and regional performance.
@@ -48,6 +49,16 @@ The Global Superstore dataset is a comprehensive collection of business data enc
 
 
 ![16](https://github.com/user-attachments/assets/786526e6-3cce-4353-8b1a-16e162a51fe5)
+
+
+
+
+
+
+https://github.com/user-attachments/assets/454639e9-a9f0-4267-8f7e-c6b32717ea21
+
+
+
 
 
 
