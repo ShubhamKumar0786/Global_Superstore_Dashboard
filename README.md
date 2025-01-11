@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/260f69ce-ef72-4e1a-8c78-17c957665719
   Apart from this,  more products are in loss in 2014. which is the same as the 2013 product.**
 - **Sales technology is becoming more in comparison of office supplies and furniture stores.**
 - **There are some products which were on top in last year's sale and are still there now.**
-- **KPI index is increase year by year.**
+- **KPI is increase year by year.**
 
 ---
 
