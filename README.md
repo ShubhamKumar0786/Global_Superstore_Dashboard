@@ -99,5 +99,5 @@ https://github.com/user-attachments/assets/260f69ce-ef72-4e1a-8c78-17c957665719
 We welcome contributions! If you have insights, improvements, or suggestions, please open an issue or submit a pull request.
 - 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
 - 📧 Email:shubhamkashyap9501@gmail.com
-- Linkedin :[Linkedin_link](https://www.linkedin.com/in/shubham9797/)
+- Linkedin :[Linkedin_link](https://www.linkedin.com/in/shubham0786/)
 
